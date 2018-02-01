@@ -1,4 +1,4 @@
-# python-
+# python-Getting the Question Library of an OJ website
 python抓取信息学奥赛数据，保存于excel中
 ## 一、踩点
 
